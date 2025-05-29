@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Bradleyz1512 👋
 
-<!--
-**Bradleyz1512/Bradleyz1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a prospective Computer Science student with a passion for tech, AI, and coding.
 
-Here are some ideas to get you started:
+- 🎓 **Conditional offer holder** for BSc Computer Science at the University of Exeter, UK  
+  - Access to Higher Education Diploma in Engineering (conditions met, awaiting diploma ratification)  
+  - Interested in a year in industry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **New to coding** — currently working through CS50x to build core programming skills
+
+- 🌱 **Currently learning:**  
+  - C, Linux (bash), Git (via CS50x)  
+  - Foundation maths for Computer Science (algebra, logic, probability)
+
+- 🧠 **Interests:**  
+  - Tech / AI / Coding  
+  - Health & Fitness  
+  - Guitar (aspiring to reach Rockschool Grade 8)  
+  - Learning new languages
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bradley--zanker-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/bradley-zanker-9865b0368/)
+
