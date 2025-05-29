@@ -15,7 +15,7 @@ I'm a prospective Computer Science student with a passion for tech, AI, and codi
 - 🧠 **Interests:**  
   - Tech / AI / Coding  
   - Health & Fitness  
-  - Guitar (aspiring to reach Rockschool Grade 8)  
+  - Playing / learning Guitar  
   - Learning new languages
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bradley--zanker-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/bradley-zanker-9865b0368/)
