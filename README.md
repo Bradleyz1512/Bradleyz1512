@@ -6,10 +6,8 @@ I'm a prospective Computer Science student with a passion for tech, AI, and codi
   - Access to Higher Education Diploma in Engineering (conditions met, awaiting diploma ratification)  
   - Interested in a year in industry
 
-- 💻 **New to coding** — currently working through CS50x to build core programming skills
-
 - 🌱 **Currently learning:**  
-  - C, Linux (bash), Git (via CS50x)  
+  - Python  
   - Foundation maths for Computer Science (algebra, logic, probability)
 
 - 🧠 **Interests:**  
